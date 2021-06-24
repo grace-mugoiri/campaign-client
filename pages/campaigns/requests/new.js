@@ -80,7 +80,7 @@ class RequestNew extends Component {
 
                     <Message error header="Oops!" content={this.state.errorMessage} />
 
-                    <Button primary loading={this.state.laoding}> Create! </Button>
+                    <Button primary loading={this.state.loading}> Create! </Button>
                 </Form>
             </Layout>
         );
