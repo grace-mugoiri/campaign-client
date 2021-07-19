@@ -25,8 +25,6 @@ This project was created in order to showcase the connection between web3 and so
 - "truffle-hdwallet-provider": "^0.0.3",
 - "web3": "^1.0.0-beta.26"
 
-### Live Demo ---> 
-
 ### Screenshot <img width="1290" alt="Screenshot 2021-07-19 at 11 14 00" src="https://user-images.githubusercontent.com/20679425/126127049-6dccdbd0-ea82-46b1-9ccf-12d117915c2b.png">
 
 ### Web responsiveness
