@@ -4,7 +4,7 @@
 This project was created in order to showcase the connection between web3 and solidity outside Remix which is common for writing smart contracts.
 
 # To start the server run 
-npm `npm run dev`
+`npm run dev`
 
 ### `to begin with the campaign...
   one must contribute some amount of ether.`
